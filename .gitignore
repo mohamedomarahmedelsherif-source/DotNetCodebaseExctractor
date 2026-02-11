@@ -40,3 +40,9 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Ignore Visual Studio .vs folder
+.vs/
+**/bin/
+**/obj/
+
